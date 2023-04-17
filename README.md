@@ -1,2 +1,2 @@
 # Project2-Misinformation-WebCrawler
- A webcrawler buitl with the intent of analysing fake news through fact-checking articles.
+ A webcrawler buil with the intent of analyzing fake news through fact-checking articles.
